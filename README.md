@@ -1,4 +1,4 @@
-![Capture](https://user-images.githubusercontent.com/53458032/112483851-cad7b880-8d4f-11eb-8de0-a4ae8bbb38df.PNG)
+![Capture](https://user-images.githubusercontent.com/53458032/112484231-2144f700-8d50-11eb-819b-290592a50f19.PNG)
 
 This is a simple PH app written in python using tkinter.
 
