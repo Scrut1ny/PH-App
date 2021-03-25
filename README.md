@@ -1,6 +1,6 @@
-This is a simple PH app written in python using tkinter.
+Simple Pornhub app written in python using tkinter.
 
-< INSTRUCTIONS >
+How To Use:
 
 Make sure to put all of these files into ONE folder!
 
