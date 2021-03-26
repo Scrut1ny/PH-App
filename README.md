@@ -1,6 +1,6 @@
-# Pornhub App - This is a easy to use Pornhub app written in python for you horny & lazy mf’s.
+# Pornhub App - This is for you horny & lazy mf’s, have fun.
 [![Python 3.9.2](https://img.shields.io/badge/Python-3.9.2-green.svg)](http://www.python.org/download/)
-[![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)
+[![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)]
 
 [![Capturev2.5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
 
