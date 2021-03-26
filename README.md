@@ -4,7 +4,7 @@ This is a easy to use Pornhub app written in ```Python v3.9.2``` for you horny &
 
 This is only working for google chrome users as of right now.
 
-How To Use:
+```How To Use:```
 
 - Keep all files into ONE folder!
 - Install the latest version of python.
