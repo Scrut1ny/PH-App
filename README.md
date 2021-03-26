@@ -10,7 +10,7 @@ This is only working for google chrome users as of right now.
 # Installation on Windows
 ```
 - Install latest released zip file.
-- Install latest [python](https://www.python.org/downloads/) version.
+- Install latest python version & set it up.
 - Make sure to select custom installation and choose ALL optional features then install.
 - Make sure in the python code that the file paths are matching up or else it wont work.
 - Run PH.py
@@ -23,3 +23,4 @@ $ sudo git clone https://github.com/Anonymoushacker4926/Official-Pornhub-App.git
 $ cd Official-Pornhub-App
 $ python3 PH.py
 ```
+Install latest [python](https://www.python.org/downloads/) version.
