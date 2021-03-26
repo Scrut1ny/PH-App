@@ -9,11 +9,11 @@ This is only working for google chrome users as of right now.
 ```
 # Installation on Windows
 ```
-Install latest release zip file.
-Install latest [python](http://www.python.org/download/) version.
-Make sure to select custom installation and choose ALL optional features then install.
-Make sure in the python code that the file paths are matching up or else it wont work.
-Run PH.py.
+- Install latest release zip file.
+- Install latest [python](http://www.python.org/download/) version.
+- Make sure to select custom installation and choose ALL optional features then install.
+- Make sure in the python code that the file paths are matching up or else it wont work.
+- Run PH.py
 ```
 # Installation on Kali Linux
 ```
