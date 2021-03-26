@@ -1,10 +1,10 @@
-# ```Pornhub App```
+# Pornhub App
 
 This is a easy to use Pornhub app written in [![Python 3.6](https://img.shields.io/badge/Python-3.9.2-green.svg)](http://www.python.org/download/) for you horny & lazy mf’s.
 
 This is only working for google chrome users as of right now.
 
-# ```How To Use:```
+# How To Use:
 
 - Keep all files into ONE folder!
 - Install the latest version of python.
