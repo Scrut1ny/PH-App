@@ -1,4 +1,4 @@
-[![Python 3.9.2](https://img.shields.io/badge/Python-3.9.2-green.svg)](http://www.python.org/download/) [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)
+[![Python 3.9.2](https://img.shields.io/badge/Python-3.9.2-green.svg)](http://www.python.org/download/) [![Build Status(https://img.shields.io/badge/Build-Passing-green.svg)
 ![Capturev2 5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
 
 # Pornhub App
