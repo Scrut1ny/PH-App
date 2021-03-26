@@ -2,7 +2,7 @@
 [![Python 3.9.2](https://img.shields.io/badge/Python-3.9.2-green.svg)](https://www.python.org/downloads/)
 [![Build Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Anonymoushacker4926/Official-Pornhub-App)
 
-[![Capturev2.5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)]
+![Capturev2.5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
 
 ```
 This is only working for google chrome users as of right now.
