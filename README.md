@@ -9,4 +9,4 @@ How To Use:
 - Make sure to select custom installation and choose ALL optional features then install.
 - Run...
 
-![Capture](https://user-images.githubusercontent.com/53458032/112484231-2144f700-8d50-11eb-819b-290592a50f19.PNG)
+![Capturev2 5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
