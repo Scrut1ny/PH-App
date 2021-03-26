@@ -1,8 +1,8 @@
-PHapp
+```Pornhub App```
 
-Easy to use PH app written in python 3.9.2 for you horny & lazy mf’s.
+This is a easy to use Pornhub app written in ```Python v3.9.2``` for you horny & lazy mf’s.
 
-Only working for google chrome users as of right now.
+This is only working for google chrome users as of right now.
 
 How To Use:
 
