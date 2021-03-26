@@ -23,4 +23,3 @@ $ sudo git clone https://github.com/Anonymoushacker4926/Official-Pornhub-App.git
 $ cd Official-Pornhub-App
 $ python3 PH.py
 ```
-Install latest [python](https://www.python.org/downloads/) version.
