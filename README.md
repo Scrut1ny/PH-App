@@ -14,7 +14,7 @@ This is only working for google chrome users as of right now.
 - Install latest python version & set it up.
 - Make sure to select custom installation and choose ALL optional features then install.
 - Make sure in the python code that the file paths are matching up or else it wont work.
-- Run PH.py
+- Run: PH.py
 ```
 # Installation on Kali Linux
 ```
