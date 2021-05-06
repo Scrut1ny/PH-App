@@ -1,5 +1,5 @@
 # Pornhub App - This is for you horny & lazy mf’s, have fun.
-[![Python 3.9.2](https://img.shields.io/badge/Python-3.9.2-green.svg)](https://www.python.org/downloads/)
+[![Python 3.9.5](https://img.shields.io/badge/Python-3.9.5-green.svg)](https://www.python.org/downloads/)
 [![Build Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Anonymoushacker4926/Official-Pornhub-App)
 [![Release v2.5](https://img.shields.io/badge/Release-v2.5-blue.svg)](https://github.com/Anonymoushacker4926/Official-Pornhub-App)
 
