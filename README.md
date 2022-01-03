@@ -6,7 +6,7 @@
 ![Capturev2.5](https://user-images.githubusercontent.com/53458032/112593530-8a377800-8dff-11eb-9778-fe274bbced37.PNG)
 
 ```
-This is only working for google chrome users as of right now.
+This works with your default browser you have setup.
 ```
 # Installation on Windows
 ```
