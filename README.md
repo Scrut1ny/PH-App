@@ -1,4 +1,4 @@
-# Pornhub App - This is for you horny & lazy mf’s, have fun.
+# PH App - This program is a joke, but actually works.
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org/downloads/)
 [![Build Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Anonymoushacker4926/Official-Pornhub-App)
 [![Release v3.3](https://img.shields.io/badge/Release-v3.3-blue.svg)](https://github.com/Anonymoushacker4926/Official-Pornhub-App/releases/tag/v3.3)
