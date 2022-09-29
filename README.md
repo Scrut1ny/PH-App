@@ -12,7 +12,7 @@ This works with your default browser you have setup.
 ```
 - Install latest released zip file.
 - Install latest python version & set it up.
-- https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+- https://www.python.org/downloads/
 - Make sure to select custom installation and choose ALL optional features then install.
 - Make sure in the python code that the file paths are matching up or else it wont work.
 - Run: PH.pyw
